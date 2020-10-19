@@ -1,5 +1,5 @@
 # using this awesome prebuild image:
-FROM 'rokijaegar/php-7.1-nginx:cicd'
+FROM 'rokijaegar/php-7.2-nginx:cicd'
 MAINTAINER Roki Fauzi <rokijaegar@gmail.com>
 
 # Install prestissimo for faster deps instalation
